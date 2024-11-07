@@ -44,9 +44,9 @@ table {
   /* LONG NOTATION */
   /* 
   margin-top:20px;
-  margin-bottom:20px;
-  margin-left: 2px;
-  margin-right:5px;
+  margin-bottom:2px;
+  margin-left: 5px;
+  margin-right: 10px;
   */
   border-collapse: collapse;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
